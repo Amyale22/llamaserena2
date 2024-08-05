@@ -1,0 +1,15 @@
+.fondoazul{
+    background-color: #b4c4f6;
+}
+
+.imagen{
+  background-image: url("../img/fondo/fondo.jpg");;
+}
+
+.espacio{
+    padding: 25px;
+}
+
+.centrado{
+    text-align: center;
+}
